@@ -44,7 +44,7 @@ def login():
          hasil.append(v_login)
 
       if hasil:
-        session['name'] = v_login[3]
+        session['mail'] = v_login[1]
         session['name'] = v_login[3]
         return redirect(url_for("bigdataApps"))
         # return redirect('/bigdataApps')
