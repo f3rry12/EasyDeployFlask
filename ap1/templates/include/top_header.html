@@ -119,7 +119,7 @@
                             <div class="u-img"><img src="{{ url_for('static', filename = 'img/guest.png') }}" alt="user" /></div>
                             <div class="u-text">
                                 <h4>{{session['name']}}</h4>
-                                <p class="text-muted">*****@*****.com</p><a href="profile.html" class="btn btn-rounded btn-danger btn-sm">View Profile</a></div>
+                                <p class="text-muted">{{session['name']}}</p><a href="profile.html" class="btn btn-rounded btn-danger btn-sm">View Profile</a></div>
                         </div>
                     </li>
                     <li role="separator" class="divider"></li>
