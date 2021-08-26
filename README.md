@@ -25,26 +25,26 @@ What you need to prepare:
 1. Open [pythonanywhere](https://www.pythonanywhere.com) (make sure to login), go to web section , then click add a new web app
 ![ss1](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss1.jpg)
 
-   Just click next
+Just click next
 ![ss2](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss2.jpg)
 
-   Choose Flask
+Choose Flask
 ![ss3](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss3.jpg)
 
-   You can choose whatever version, but I recommend to use 3.7 if you don’t have plan in mind
-![ss4](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss4.jpg)
+ You can choose whatever version, but I recommend to use 3.7 if you don’t have plan in mind
+![ss3k5](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss3_5.jpg)
 
-   Just click Next
-![ss5](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss5.jpg)
+ Just click Next
+![ss4](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss4.jpg)
 
 Now your site server in [pythonanywhere](https://www.pythonanywhere.com) ready.
 
 2. Go to files section, then create new directory called tar
-![ss6](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss6.jpg)
+![ss5](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss5.jpg)
 
 3. After you make tar directory, back to main directory then choose mysite directory
    Then delete flask_app.py (we don’t need it because we already have this file ready in this git repository)
-![ss7](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss7.jpg)
+![ss6](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss6.jpg)
 
 
 Special thanks o my Instructur Imam Cholissodin, S.Si., M.Kom.
