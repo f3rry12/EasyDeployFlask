@@ -37,7 +37,7 @@ What you need to prepare:
   Just click Next <br>
 ![ss4](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss4.jpg)
 
-Now your site server in [pythonanywhere](https://www.pythonanywhere.com) ready. <br>
+Now your site server in [pythonanywhere](https://www.pythonanywhere.com) ready.
 
 2. Go to files section, then create new directory called tar
 ![ss5](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss5.jpg)
@@ -46,6 +46,6 @@ Now your site server in [pythonanywhere](https://www.pythonanywhere.com) ready. 
    Then delete flask_app.py (we don’t need it because we already have this file ready in this git repository)
 ![ss6](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss6.jpg)
 
-
-Special thanks o my Instructur Imam Cholissodin, S.Si., M.Kom.
+## Acknowledgements
+Special thanks to my Instructur [Imam Cholissodin](https://github.com/imamcs19), S.Si., M.Kom.
 
