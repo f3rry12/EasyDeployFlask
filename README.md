@@ -18,16 +18,33 @@ Feature (by default / before you edit it) :
 
 What you need to prepare:
 * Have verified account at https://www.pythonanywhere.com
-* Install Spark (opsional, its required if you use ML that need Spark). You can follow this my other repo  [install-pyspark-split1](https://github.com/f3rry12/install-pyspark-split1) (you can install it later after deploy this web project)
+* Install Spark (opsional, its required if you use ML that need Spark). You can follow my other repo  [install-pyspark-split1](https://github.com/f3rry12/install-pyspark-split1) (you can install it later after deploy this web project)
 
 ### How to Deploy
 
 1. Open [pythonanywhere](https://www.pythonanywhere.com) (make sure to login), go to web section , then click add a new web app
-![feature](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss1.jpg)
+![ss1](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss1.jpg)
 
-2. Clone the repo
+   Just click next
+![ss2](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss2.jpg)
 
+   Choose Flask
+![ss3](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss3.jpg)
 
+   You can choose whatever version, but I recommend to use 3.7 if you don’t have plan in mind
+![ss4](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss4.jpg)
+
+   Just click Next
+![ss5](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss5.jpg)
+
+Now your site server in [pythonanywhere](https://www.pythonanywhere.com) ready.
+
+2. Go to files section, then create new directory called tar
+![ss6](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss6.jpg)
+
+3. After you make tar directory, back to main directory then choose mysite directory
+   Then delete flask_app.py (we don’t need it because we already have this file ready in this git repository)
+![ss7](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss7.jpg)
 
 
 Special thanks o my Instructur Imam Cholissodin, S.Si., M.Kom.
