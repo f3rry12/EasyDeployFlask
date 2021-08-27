@@ -2,7 +2,7 @@
 This repository provide machine learning web app with some ready feature using flask and deploy it in [pythonanywhere](https://www.pythonanywhere.com)
 
 ## About The Project
-This project is provided by my [Instructur](https://github.com/imamcs19/FGA-Big-Data-Using-Python-Filkom-x-Mipa-UB-2021) with some little edit from me. This project supposed to just provide ready enviromental web development and editted later by programmer, not supposed to be final product.
+This project is provided by my [Instructur](https://github.com/imamcs19/FGA-Big-Data-Using-Python-Filkom-x-Mipa-UB-2021) with some little edit from me. This project supposed to just provide ready enviromental web development and modified by you, not supposed to be final product.
 
 ![feature](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/provide1.jpg)
 
@@ -14,6 +14,8 @@ Feature (by default / before you edit it) :
 
 
 ## Getting Started
+I made this tutorial intended for beginner
+
 ### Prerequisites
 
 What you need to prepare:
@@ -61,6 +63,8 @@ Then follow this command to clone this repository
 Move the project from tar directory to mysite directory
    ```sh
    cd
+   ```
+   ```sh
    mv /home/yourusername/tar/EasyDeployFlask/* /home/yourusername/mysite/
    ```
 ![ss9](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss9.jpg)
@@ -79,6 +83,18 @@ You can visit your web to check if it success
 ![ss12](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/ss12.jpg)
 
 7. Last, because free user [pythonanywhere](https://www.pythonanywhere.com) have limited space. Try clear some space by deleting tar directory and read me asset
+
+## What to edit?
+In this guide, I can not give you detailed tutorial what to edit and how to do it. Instead, i just give you some mapping about this project
+![e1](https://github.com/f3rry12/EasyDeployFlask/blob/main/readMeAsset/edit1.jpg)
+Mostly you will edit flask_app.py and some HTML files
+
+To edit this project, you need some knowledge about :
+* Python programing (obviously)
+* Flask infrastructure
+* Basic HTML
+* SQLite (You dont need to study from scracth, just googling what you need to edit)
+
 
 ## Acknowledgements
 Special thanks to my Instructur [Imam Cholissodin](https://github.com/imamcs19), S.Si., M.Kom.
