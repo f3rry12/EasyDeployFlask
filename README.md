@@ -97,6 +97,6 @@ To edit this project, you need some knowledge about :
 
 
 ## Acknowledgements
-Special thanks to my Instructur [Imam Cholissodin](https://github.com/imamcs19), S.Si., M.Kom. for providing this project
-Asisten Instructur Yonas Asmara
+Special thanks to my Instructur [Imam Cholissodin](https://github.com/imamcs19), S.Si., M.Kom. for providing this project <br>
+Asisten Instructur Yonas Asmara <br>
 Collaboration from Fakultas Ilmu Komputer (Filkom) x MIPA, Brawijaya University (UB) 2021
